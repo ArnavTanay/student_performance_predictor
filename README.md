@@ -3,7 +3,7 @@
 A machine learning web app that predicts whether a student will pass or fail math based on demographic and academic factors.
 
 ## Live Demo
-[Add Streamlit deployment link here]
+[Live Demo](https://at-student-predictor.streamlit.app)
 
 ## What It Does
 - Takes student inputs: gender, race, parental education, lunch type, test prep, reading & writing scores
